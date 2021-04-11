@@ -6,3 +6,5 @@ int main() {
   printf("From thread #%d", omp_get_thread_num());
  return 0; 
 }
+
+//done
